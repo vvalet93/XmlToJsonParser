@@ -1,0 +1,12 @@
+c:\users\skynet\source\repos\XmlToJsonParser\XmlToJsonParser\bin\Debug\XmlToJsonParser.exe.config
+c:\users\skynet\source\repos\XmlToJsonParser\XmlToJsonParser\bin\Debug\XmlToJsonParser.exe
+c:\users\skynet\source\repos\XmlToJsonParser\XmlToJsonParser\bin\Debug\XmlToJsonParser.pdb
+c:\users\skynet\source\repos\XmlToJsonParser\XmlToJsonParser\obj\Debug\XmlToJsonParser.csprojResolveAssemblyReference.cache
+c:\users\skynet\source\repos\XmlToJsonParser\XmlToJsonParser\obj\Debug\XmlToJsonParser.csproj.CoreCompileInputs.cache
+c:\users\skynet\source\repos\XmlToJsonParser\XmlToJsonParser\obj\Debug\XmlToJsonParser.exe
+c:\users\skynet\source\repos\XmlToJsonParser\XmlToJsonParser\obj\Debug\XmlToJsonParser.pdb
+c:\users\skynet\source\repos\XmlToJsonParser\XmlToJsonParser\bin\Debug\Newtonsoft.Json.dll
+c:\users\skynet\source\repos\XmlToJsonParser\XmlToJsonParser\bin\Debug\Newtonsoft.Json.xml
+c:\users\skynet\source\repos\XmlToJsonParser\XmlToJsonParser\obj\Debug\XmlToJsonParser.csproj.CopyComplete
+c:\users\skynet\source\repos\XmlToJsonParser\XmlToJsonParser\bin\Debug\XmlToJsonLib.dll
+c:\users\skynet\source\repos\XmlToJsonParser\XmlToJsonParser\bin\Debug\XmlToJsonLib.pdb

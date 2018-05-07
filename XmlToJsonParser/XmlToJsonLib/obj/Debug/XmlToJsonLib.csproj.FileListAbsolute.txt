@@ -1,0 +1,8 @@
+c:\users\skynet\source\repos\XmlToJsonParser\XmlToJsonLib\bin\Debug\XmlToJsonLib.dll
+c:\users\skynet\source\repos\XmlToJsonParser\XmlToJsonLib\bin\Debug\XmlToJsonLib.pdb
+c:\users\skynet\source\repos\XmlToJsonParser\XmlToJsonLib\bin\Debug\Newtonsoft.Json.dll
+c:\users\skynet\source\repos\XmlToJsonParser\XmlToJsonLib\bin\Debug\Newtonsoft.Json.xml
+c:\users\skynet\source\repos\XmlToJsonParser\XmlToJsonLib\obj\Debug\XmlToJsonLib.csproj.CoreCompileInputs.cache
+c:\users\skynet\source\repos\XmlToJsonParser\XmlToJsonLib\obj\Debug\XmlToJsonLib.csproj.CopyComplete
+c:\users\skynet\source\repos\XmlToJsonParser\XmlToJsonLib\obj\Debug\XmlToJsonLib.dll
+c:\users\skynet\source\repos\XmlToJsonParser\XmlToJsonLib\obj\Debug\XmlToJsonLib.pdb
